@@ -34,6 +34,8 @@ body {
 }
 .left-card .card-back {
     background: #f4f4f4;
+    tranform: rotateY(180deg);
+    
 }
 
 /*open card */
