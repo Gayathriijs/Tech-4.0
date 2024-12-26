@@ -4,6 +4,7 @@ This repository contains the code for a virtual Christmas card project.
 
 ## Contributions ##
 Idea- Ganga Gireesh, Gayathri JS, Kripa Ann Jose, Carol Merlit Ebin
+
 Code and Design - Ganga Gireesh
 
 
